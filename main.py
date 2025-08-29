@@ -3,7 +3,6 @@ from constants import *
 from player import *
 from asteroid import *
 from asteroidfield import *
-import sys
 
 def main():
     pygame.init()
